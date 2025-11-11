@@ -35,5 +35,6 @@ This project implements a CSV Runner Dashboard that allows users to upload CSV f
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Gopal562004/CSV_Runner_Dashboard.git
    cd csv-runner-dashboard
+
